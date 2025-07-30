@@ -15,3 +15,7 @@ git remote add [remote-name] [remote-url]: Connects your local repository to a r
 git reset [commit-hash]: Undoes changes by moving the HEAD pointer to a previous commit, potentially discarding subsequent commits.
 git stash: Temporarily saves uncommitted changes and resets the working directory to a clean state.
 git stash pop: Restores the most recently stashed changes to the working directory.
+
+
+echo "these are important commands for git "
+
